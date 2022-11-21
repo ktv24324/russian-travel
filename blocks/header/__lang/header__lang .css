@@ -1,7 +1,7 @@
 .header__lang {
     display: flex;
     list-style-type: none;
-    padding: 0;
+
     margin-top: 46px;
     margin-right: 48px;
     gap: 18px;
@@ -15,7 +15,7 @@
     }
 }
 
-@media screen and (max-width: 605px) {
+@media screen and (max-width: 320px) {
     .header__lang {
         margin-top: 30px;
         margin-right: 16px;
