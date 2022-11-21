@@ -9,11 +9,11 @@
 }
 
 .header__lang-link:hover {
-    opacity: .7;
+    opacity: .8;
 }
 
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 320px) {
     .header__lang-link {
         font-size: 18px;
         line-height: 20px;
