@@ -2,7 +2,7 @@
 
 О красивых местах России
 
-Ссылка на прект: git@github.com:ktv24324/russian-travel.git
+Ссылка на прект: https://ktv24324.github.io/russian-travel/
 
 ## Использемые технолгии:
 1. Html
