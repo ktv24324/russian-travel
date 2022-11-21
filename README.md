@@ -7,6 +7,7 @@
 ## Использемые технолгии:
 1. Html
 2. Css
-3. Figma
-4. flex
-5. grid
+3. grid
+4. Figma
+5. flex
+
