@@ -5,21 +5,29 @@
     width: 100%;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 930px) {
     .place__image {
-        width: 440px;
+        width: 340px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 605px) {
     .place__image {
         width: 100%;
         margin-left: 16px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
     .place__image {
-        width: 340px;
+        width: 440px;
+    }
+}
+
+
+
+@media screen and (max-width: 492px) {
+    .place__image {
+        margin-left: 0;
     }
 }
