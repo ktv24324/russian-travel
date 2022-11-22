@@ -1,16 +1,16 @@
 .lead__image-box {
-    margin: 0 auto;
-    width: 984px;
+  margin: 0 auto;
+  width: 984px;
 }
 
 @media screen and (max-width: 1024px) {
-    .lead__image-box {
-        width: 928px;
-    }
+  .lead__image-box {
+    width: 928px;
+  }
 }
 
 @media screen and (max-width: 930px) {
-    .lead__image-box {
-        width: 100%;
-    }
+  .lead__image-box {
+    width: 100%;
+  }
 }

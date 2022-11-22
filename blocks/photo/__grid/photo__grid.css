@@ -1,29 +1,27 @@
 .photo__grid {
-    display: grid;
-    gap: 16px;
-    grid-template-columns: repeat(auto-fill, 284px);
-    justify-content: center;
-    max-width: 1184px;
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fill, 284px);
+  justify-content: center;
 }
 
-
 @media screen and (max-width: 1024px) {
-    .photo__grid {
-        grid-template-columns: repeat(auto-fill, 300px);
-        gap: 14px 14px;
-    }
+  .photo__grid {
+    grid-template-columns: repeat(auto-fill, 300px);
+    gap: 14px 14px;
+  }
 }
 
 @media screen and (max-width: 930px) {
-    .photo__grid {
-        grid-template-columns: repeat(auto-fill, 352px);
-        gap: 16px 16px;
-    }
+  .photo__grid {
+    grid-template-columns: repeat(auto-fill, 352px);
+    gap: 16px 16px;
+  }
 }
 
 @media screen and (max-width: 352px) {
-    .photo__grid {
-        grid-template-columns: repeat(auto-fill, 288px);
-        row-gap: 12px;
-    }
+  .photo__grid {
+    grid-template-columns: repeat(auto-fill, 288px);
+    row-gap: 12px;
+  }
 }

@@ -2,10 +2,10 @@
     display: flex;
     list-style-type: none;
     padding: 0;
-    margin: 46px 48px 0 18px;
+    margin: 0;
+    margin: 46px 3.75% 0 18px;
     gap: 18px;
 }
-
 
 @media screen and (max-width: 1024px) {
     .header__lang {

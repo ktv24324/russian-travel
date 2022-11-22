@@ -1,0 +1,27 @@
+.header__lang {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin: 46px 3.75% 0 18px;
+  gap: 18px;
+}
+
+@media screen and (max-width: 1024px) {
+  .header__lang {
+    margin-right: 4.69%;
+  }
+}
+
+@media screen and (max-width: 930px) {
+  .header__lang {
+    margin-right: 3.52%;
+  }
+}
+
+@media screen and (max-width: 605px) {
+  .header__lang {
+    margin-top: 30px;
+    margin-right: 16px;
+  }
+}

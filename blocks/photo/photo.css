@@ -1,20 +1,18 @@
 .photo {
-    margin: 92px 48px 0;
-    padding: 0;
-
-
+  margin: 92px 3.75% 0;
+  padding: 0;
 }
 
 @media screen and (max-width: 930px) {
-    .photo {
-        margin-top: 88px;
-        margin-left: 0;
-        margin-right: 0;
-    }
+  .photo {
+    margin-top: 88px;
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 @media screen and (max-width: 352px) {
-    .photo {
-        margin-top: 64px;
-    }
+  .photo {
+    margin-top: 64px;
+  }
 }

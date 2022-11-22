@@ -1,13 +1,12 @@
 .place__url {
-    display: flex;
-    gap: 12px 0;
-    justify-content: flex-end;
-    flex-direction: column;
-
+  display: flex;
+  flex-direction: column;
+  gap: 12px 0;
+  justify-content: flex-end;
 }
 
 @media screen and (max-width: 605px) {
-    .place__url {
-        margin-left: 16px;
-    }
+  .place__url {
+    margin-left: 16px;
+  }
 }
