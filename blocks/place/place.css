@@ -23,8 +23,9 @@
 @media screen and (max-width: 768px) {
     .place {
         column-gap: 28px;
-        margin-bottom: 73px;
-        max-width: 720px;
+        margin: 0 auto 73px;
+        
+
     }
 }
 
