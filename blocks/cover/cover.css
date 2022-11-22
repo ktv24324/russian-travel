@@ -5,13 +5,13 @@
 
 
 
-@media screen and (max-width: 928px) {
+@media screen and (max-width: 768px) {
     .cover {
         margin-top: 90px;
     }
 }
 
-@media screen and (max-width: 325px) {
+@media screen and (max-width: 320px) {
     .cover {
         margin-top: 66px;
         min-height: 200px;
