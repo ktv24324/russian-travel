@@ -8,32 +8,22 @@
 
 
 @media screen and (max-width: 1024px) {
-
     .photo__grid {
         grid-template-columns: repeat(auto-fill, 300px);
         gap: 14px 14px;
-        max-width: 928px
     }
-
-
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 930px) {
     .photo__grid {
         grid-template-columns: repeat(auto-fill, 352px);
         gap: 16px 16px;
-        max-width: 720px;
-        margin-left: 24px;
-
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 352px) {
     .photo__grid {
         grid-template-columns: repeat(auto-fill, 288px);
         row-gap: 12px;
-        max-width: 288px;
-        margin-left: 16px;
     }
-
 }
